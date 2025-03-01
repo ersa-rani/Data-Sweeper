@@ -1,1 +1,1 @@
-echo "openpyxl" >> requirements.txt
+echo "openpyxl" 
