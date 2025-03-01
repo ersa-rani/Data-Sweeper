@@ -17,23 +17,7 @@ Detect and remove outliers using Interquartile Range (IQR)
 ✔ Data Visualization:
 Interactive bar charts for numerical data
 ✔ File Conversion: Download processed files in CSV or Excel format.
-🔧 Installation
-Clone the repository:
-sh
-Copy
-Edit
-git clone https://github.com/your-username/data-sweeper.git
-cd data-sweeper
-Install dependencies:
-sh
-Copy
-Edit
-pip install -r requirements.txt
-Run the application:
-sh
-Copy
-Edit
-streamlit run app.py
+
 🛠 Technologies Used
 Python
 Streamlit
